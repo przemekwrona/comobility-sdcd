@@ -1,0 +1,10 @@
+python/resources/vehicles-delay-between-stops
+python/resources/*.txt
+python/resources/adwin_detected_changes.csv
+python/resources/adwin_detected_changes_by_hour.csv
+python/results/**/**.png
+python/results/**/**.tex
+python/results/**.csv
+python/cache/**.json
+
+.idea/
