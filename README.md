@@ -25,16 +25,24 @@ Run project with python 2.7
 python main.py
 ```
 
-## Data prepartion 
+[//]: # (## Data prepartion )
 
-Copy data from Hadoop to Local filesystem
+[//]: # ()
+[//]: # (Copy data from Hadoop to Local filesystem)
 
-```shell
-hadoop fs -copyToLocal /projects/co-mobility/data/warsaw/vehicles-delay-between-stops/2021-12-13/ /home/hdfs
-```
+[//]: # ()
+[//]: # (```shell)
 
-Copy data from remote machine to local computer
+[//]: # (hadoop fs -copyToLocal /projects/co-mobility/data/warsaw/vehicles-delay-between-stops/2021-12-13/ /home/hdfs)
 
-```shell
-scp wronap2@192.168.137.213:/home/hdfs/2021-12-11 C:/workspace
-```
+[//]: # (```)
+
+[//]: # ()
+[//]: # (Copy data from remote machine to local computer)
+
+[//]: # ()
+[//]: # (```shell)
+
+[//]: # (scp wronap2@192.168.137.213:/home/hdfs/2021-12-11 C:/workspace)
+
+[//]: # (```)
